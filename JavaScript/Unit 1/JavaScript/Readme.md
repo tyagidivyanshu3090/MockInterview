@@ -14,3 +14,19 @@
 - **undefined** = value has been explicitly set.
 
 # 💡 Commit 3: Understanding the map, fiter and reduce function
+
+- **map function** create the new array: not modifying the original array
+
+  - callback function used in the map function must alter the passed array
+
+- **filter function:** has the same syntax as the map and values which pass the condition are stored to new array and rest are removed.
+
+  - callback function used in the filter function must return true or false
+
+- 🧐 **Reduce function**
+  - Same syntax as map but
+  - callBack function takes 2 param: `accumulator and currentValue`
+
+```jsx
+array.reduce(callback, initialValue);
+```
