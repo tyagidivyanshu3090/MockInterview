@@ -1,4 +1,4 @@
-# # Commit 1: 💡 Concept Tested:
+# Commit 1: 💡 Concept Tested:
 
 - Behavior of the arguments object in non-strict vs strict mode
 - Parameter-argument linkage in JavaScript functions
