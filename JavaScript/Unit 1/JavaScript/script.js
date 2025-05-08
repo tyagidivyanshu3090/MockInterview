@@ -16,4 +16,4 @@
 // console.log(arr.length); // 11
 // console.log(arr); // [ 2, 3, 5, <7 empty items>, 12 ]
 
-// ? Commit 3:
+// ? Commit 3: Understanding the map, fiter and reduce function
