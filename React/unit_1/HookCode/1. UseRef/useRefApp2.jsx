@@ -1,3 +1,5 @@
+// * Changing the color and using inputRef.current.value
+
 import React, { useRef } from "react";
 
 const App = () => {
